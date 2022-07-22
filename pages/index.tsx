@@ -1,11 +1,10 @@
-import Navigation from "../components/navigation";
+import Container from "../components/container";
 
 const Index: React.FC = () => {
   return (
-    <div>
-      <Navigation />
+    <Container>
       <h1>Hello World</h1>
-    </div>
+    </Container>
   );
 };
 
