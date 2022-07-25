@@ -14,7 +14,7 @@ const Container = (props) => {
       </Head>
 
       <Navigation />
-      <div>{props.children}</div>
+      <div className="container p-4">{props.children}</div>
     </div>
   );
 };
