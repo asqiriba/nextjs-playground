@@ -8,16 +8,16 @@ NextJS playground that let me learn the sintax. Taken from [here](https://www.yo
 
 ## Setup
 
-    ```bash
-    npm install next react react-dom
-    ```
+```bash
+npm install next react react-dom
+```
 
-    ```bash
-    npm install --save-dev typescript @types/react @types/node
-    ```
+```bash
+npm install --save-dev typescript @types/react @types/node
+```
 
 ## Run
 
-    ```bash
-    npm run dev
-    ```
+```bash
+npm run dev
+```
